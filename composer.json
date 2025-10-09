@@ -1,0 +1,50 @@
+{
+    "name": "opengento/magento2-frankenphp-base",
+    "description": "Magento 2 Base for FrankenPHP",
+    "keywords": [
+        "php",
+        "magento",
+        "magento2",
+        "frankenphp",
+        "application"
+    ],
+    "require": {
+        "magento/magento2-base": "*",
+        "opengento/module-application": "^1.0"
+    },
+    "require-dev": {
+        "magento/magento-coding-standard": "^33",
+        "roave/security-advisories": "dev-latest"
+    },
+    "type": "magento2-component",
+    "license": [
+        "MIT"
+    ],
+    "homepage": "https://github.com/opengento/magento2-application",
+    "authors": [
+        {
+            "name": "Opengento Team",
+            "email": "opengento@gmail.com",
+            "homepage": "https://opengento.fr/",
+            "role": "lead"
+        },
+        {
+            "name": "Thomas Klein",
+            "email": "thomaskein876@gmail.com",
+            "homepage": "https://www.linkedin.com/in/thomas-klein/",
+            "role": "maintainer"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/opengento/magento2-application",
+        "issues": "https://github.com/opengento/magento2-application/issues"
+    },
+    "extra": {
+        "map": [
+            [
+                "pub/worker.php",
+                "pub/worker.php"
+            ]
+        ]
+    }
+}
