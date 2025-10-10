@@ -12,7 +12,6 @@ if (!($_SERVER['FRANKENPHP_WORKER_ENABLE'] ?? false)) {
         <h3 style="margin:0;font-size:1.7em;font-weight:normal;text-transform:none;text-align:left;color:#2f2f2f;">
         FrankenPHP Worker mode is not enabled</h3>
     </div>
-    <p>{$e->getMessage()}</p>
 </div>
 HTML;
     http_response_code(500);
