@@ -38,7 +38,7 @@ $bootstrapPool = new \Opengento\Application\ObjectManager\BootstrapPool();
 $handler = static function () use ($bootstrapPool): void {
     try {
         $bootstrap = $bootstrapPool->get();
-        $app = $bootstrap->createApplication(\Opengento\Application\App\Application::class);
+        $app = $bootstrap->createApplication($_SERVER['OPENGENTO_APP']);
         if ($app !== null) {
             $bootstrap->run($app);
         }

@@ -43,7 +43,15 @@
         "map": [
             [
                 "pub/worker.php",
+                "pub/worker.php"
+            ],
+            [
+                "pub/index.php",
                 "pub/index.php"
+            ],
+            [
+                "pub/static.php",
+                "pub/static.php"
             ]
         ]
     }
