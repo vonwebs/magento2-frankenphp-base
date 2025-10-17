@@ -35,10 +35,10 @@ HTML;
 }
 
 $bootstrapPool = new \Opengento\Application\ObjectManager\BootstrapPool();
-$handler = static function () use ($bootstrapPool): void {
+$handler = static function () use ($bootstrapPool, $frankengento): void {
     try {
         $bootstrap = $bootstrapPool->get();
-        $app = $bootstrap->createApplication($_SERVER['OPENGENTO_APP']);
+        $app = $bootstrap->createApplication($frankengento);
         if ($app !== null) {
             $bootstrap->run($app);
         }
