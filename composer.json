@@ -10,7 +10,7 @@
     ],
     "require": {
         "magento/magento2-base": "*",
-        "opengento/module-application": "^0.3"
+        "opengento/module-application": ">0.5"
     },
     "require-dev": {
         "magento/magento-coding-standard": "^33",
