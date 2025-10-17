@@ -5,6 +5,6 @@
  */
 declare(strict_types=1);
 
-$_SERVER['OPENGENTO_APP'] = \Opengento\Application\App\StaticResource::class;
+$frankengento = \Opengento\Application\App\StaticResource::class;
 
 include 'worker.php';
